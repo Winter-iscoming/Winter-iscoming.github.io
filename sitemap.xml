@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://td.today/cn/%E6%88%91%E5%9B%BD%E6%B0%91%E8%90%A5%E7%BE%8E%E6%9C%AF%E9%A6%86%E5%9C%A8%E6%95%B0%E5%AD%97%E7%BE%8E%E6%9C%AF%E9%A6%86%E5%BB%BA%E8%AE%BE%E4%B8%8A%E7%9A%84%E5%8D%8A%E7%BC%BA%E5%A4%B1/</loc>
+    <loc>http://td.today/cn/%E6%88%91%E5%9B%BD%E6%B0%91%E8%90%A5%E7%BE%8E%E6%9C%AF%E9%A6%86%E5%9C%A8%E6%95%B0%E5%AD%97%E7%BE%8E%E6%9C%AF%E9%A6%86%E5%BB%BA%E8%AE%BE%E4%B8%8A%E7%9A%84%E5%9B%B0%E5%A2%83/</loc>
     
     <lastmod>2022-04-03</lastmod>
     
@@ -53,7 +53,7 @@
 
   <url>
     <loc>http://td.today/</loc>
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -61,7 +61,7 @@
   
   <url>
     <loc>http://td.today/tags/%E8%89%BA%E6%9C%AF/</loc>
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -70,7 +70,7 @@
   
   <url>
     <loc>http://td.today/categories/%E8%89%BA%E6%9C%AF/</loc>
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
